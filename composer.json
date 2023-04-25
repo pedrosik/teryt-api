@@ -21,10 +21,7 @@
     "php": ">=7.2",
     "ext-soap": "*",
     "ext-dom": "*",
-    "mrcnpdlk/lib-exception": "^0",
-    "mrcnpdlk/lib-configuration": "^0",
-    "robrichards/wse-php": "^2",
-    "mrcnpdlk/psr16cache-adapter": "^0"
+    "robrichards/wse-php": "^2"
   },
   "require-dev": {
     "phpunit/php-code-coverage": "^7",
